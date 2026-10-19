@@ -4,7 +4,7 @@ A browser-based tool to detect human face orientation (**Pitch, Yaw, Roll**) in 
 
 This project is designed for easy collection of head pose data, which can be used for 3D human model rendering, emotion research, behavioral analysis, and more.
 
-![Demo](./demo.png)
+![Demo](https://github.com/alombd/face-pose-mediapipe/blob/main/public/demo.png)
 
 ---
 
